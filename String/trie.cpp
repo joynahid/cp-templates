@@ -71,6 +71,6 @@ int main()
 		if(op=="add") insert(word);
 		else printf("%lld\n",query(word));
 	}
-
+ 
 	return 0;
 }
